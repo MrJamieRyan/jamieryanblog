@@ -1,5 +1,3 @@
-# How to limit the space Apple Music and Apple Photos take up on your Mac Hard Drive
-
 If, like me, you subscribe to Apple Music and use iCloud Photos then you’ll enjoy that both of these services sync beautifully and almost effortlessly to your Mac. However, what happens if you have lots of photos and music that you want to sync but you don’t want your limited space on your HDD or SSD filling up. I have a solution.
 
 You can “partition” your hard drive and move the libraries for Music.app and Photos.app to this new drive. Now, I’ve put “partition” in quotes because it’s not really like it used to be. Let me explain…
