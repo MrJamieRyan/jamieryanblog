@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Jamie Ryan
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> A Software Developer from Edinburgh, Scotland
